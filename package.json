@@ -1,0 +1,19 @@
+{
+  "name": "sodexo-api",
+  "version": "0.0.1",
+  "description": "API não oficial do sodexo para consulta de saldo e mapa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sodexo",
+    "api",
+    "saldo"
+  ],
+  "author": "Micael Souza",
+  "license": "MIT",
+  "dependencies": {
+    "unirest": "^0.5.1"
+  }
+}
