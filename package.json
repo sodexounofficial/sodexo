@@ -15,5 +15,17 @@
   "license": "MIT",
   "dependencies": {
     "unirest": "^0.5.1"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaelsouza/sodexo-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/micaelsouza/sodexo-api/issues"
+  },
+  "homepage": "https://github.com/micaelsouza/sodexo-api#readme"
 }
