@@ -3,12 +3,12 @@ Módulo não oficial para consulta de saldo dos cartões sodexo.
 
 ## Instalação
 
-    $ npm i sodexo-api
+    $ npm i sodexo
 
 ## Uso
 
 ```javascript
-const sodexo = require('sodexo-api');
+const sodexo = require('sodexo');
 
 // passe como parâmetros o número do cartão e o cpf do titular
 sodexo.saldo(cartao, cpf)
