@@ -1,7 +1,7 @@
 {
-  "name": "sodexo-api",
+  "name": "sodexo",
   "version": "0.0.1",
-  "description": "API não oficial do sodexo para consulta de saldo e mapa",
+  "description": "Módulo não oficial para consulta de saldo dos cartões sodexo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,21 +11,18 @@
     "api",
     "saldo"
   ],
-  "author": "Micael Souza",
+  "author": "micaelsouza",
   "license": "MIT",
   "dependencies": {
     "unirest": "^0.5.1"
   },
-  "directories": {
-    "example": "examples"
-  },
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/micaelsouza/sodexo-api.git"
+    "url": "git+https://github.com/sodexounofficial/sodexo.git"
   },
   "bugs": {
-    "url": "https://github.com/micaelsouza/sodexo-api/issues"
+    "url": "https://github.com/sodexounofficial/sodexo/issues"
   },
-  "homepage": "https://github.com/micaelsouza/sodexo-api#readme"
+  "homepage": "https://github.com/sodexounofficial/sodexo#readme"
 }
