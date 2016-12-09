@@ -1,5 +1,5 @@
-# sodexo-api
-API não oficial do sodexo para consulta de saldo.
+# sodexo
+Módulo não oficial para consulta de saldo dos cartões sodexo.
 
 ## Instalação
 
