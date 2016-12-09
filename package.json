@@ -1,6 +1,6 @@
 {
   "name": "sodexo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Módulo não oficial para consulta de saldo dos cartões sodexo.",
   "main": "index.js",
   "scripts": {
