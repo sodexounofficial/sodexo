@@ -3,7 +3,7 @@ Módulo não oficial para consulta de saldo dos cartões sodexo.
 
 ## Instalação
 
-    $ npm i sodexo
+    $ npm i --save sodexo
 
 ## Uso
 
@@ -16,6 +16,8 @@ sodexo.saldo(cartao, cpf)
     console.log(res);
   });
 ```
+
+* Este módulo precisa das variáveis de ambiente `SODEXO_ENCRYPT_ALGORITHM` e `SODEXO_ENCRYPT_KEY` para funcionar. Caso você precise dos valores para setar nestas variáveis, envie um e-mail para micael.souza@outlook.com
 
 ## Licença
 MIT
