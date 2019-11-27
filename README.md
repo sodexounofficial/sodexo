@@ -1,3 +1,5 @@
+# ESTE PACOTE NÃO FUNCIONA MAIS!
+
 # sodexo
 Módulo não oficial para consulta de saldo dos cartões sodexo.
 
